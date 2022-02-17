@@ -1,0 +1,16 @@
+<head>
+  <link href="styles/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <main>
+      <h1>Page under construction.</h1>
+      <p>
+        <!-- Block parent element -->
+<div class="img-container-block">
+ <iframe src="https://giphy.com/embed/gJVOG5BfXRYTpfyHtn" width="480" height="346" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/butterfly-book-gJVOG5BfXRYTpfyHtn">via GIPHY</a></p>
+</div>
+      </p>
+    </main>
+  </body>
+</html>
